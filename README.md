@@ -1,40 +1,34 @@
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hi there <img src="./assets/hi.gif" width="28px">, My name is Eduardo Bernardino <img src="./assets/among.gif" width="50px">
 
-### Hello! I'm Eduardo Bernardino, a Full Stack Developer and Web Pestester from Brazil.
+I'm FullStack developer and Pentester.
 
-<a href="https://www.linkedin.com/in/dudubernardino/">
-  <img align="left" alt="Eduardo Bernardino" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- 🔭 &nbsp; Currently working as an intern at the <a href="https://www.bnb.gov.br/">BNB</a>.
+- 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">UECE - Ceará State University</a>.
+- ⚡ &nbsp; Co-founder of a static informative project called [**InfoseCE**](https://infosece.github.io/ "InfoseCE") to share a little knowledge about PentTest and used tools.
+
+<h3>&nbsp;Languages and tools </h3>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![GNUbash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+<a href="https://github.com/dudubernardino/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudubernardino&theme=radical" alt="dudubernardino github stats"/>
 </a>
-<a href="https://www.instagram.com/dudubernardino">
-  <img align="left" alt="Eduardo Bernardino" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://github.com/dudubernardino/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
 </a>
 
-<br />
-<br />
+<h3> &nbsp;Contact me </h3>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-  
-### 👨‍💻 Languages and Tools
-
-<br />
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/dudubernardino) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/dudubernardino)
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/dudubernardino)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/dudubernadino)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/dudubernardino)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/dudubernardino)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/dudubernardino)
-
- 
+[![Linkedin: Eduardo Bernardino](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/dudubernardino//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:eduardomoura.moura@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davozard)](https://t.me/dudubernardino)
+[![GitHub Eduardo Bernardino](https://img.shields.io/github/followers/dudubernardino?label=follow&style=social)](https://github.com/dudubernardino/)
